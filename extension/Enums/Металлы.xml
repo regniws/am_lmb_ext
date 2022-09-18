@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.12">
+	<Enum uuid="b230a818-95ef-4fb1-95f7-f504583ca2c7">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.Металлы" category="Ref">
+				<xr:TypeId>11f79fcd-e7d4-4cc8-a0e6-786466110e49</xr:TypeId>
+				<xr:ValueId>5cbc6782-12e8-487f-ba57-9f39dbd19819</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.Металлы" category="Manager">
+				<xr:TypeId>06603d42-4230-45fd-8be7-07421ec8ddd3</xr:TypeId>
+				<xr:ValueId>c4ad0cd2-e7e4-4f5f-ac19-2857fbcd2fec</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.Металлы" category="List">
+				<xr:TypeId>182ad1dc-4919-4d15-a226-9ebf260f7e06</xr:TypeId>
+				<xr:ValueId>44092082-f477-48b4-98b4-6d9b1de5e2e0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Металлы</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>454cd027-767a-4b71-b817-a56fe1f610ef</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="d7ddf2bd-834b-4188-be5c-b55282f2a848">
+				<InternalInfo/>
+				<Properties>
+					<Name>DM_GOLD</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>c91e194c-846d-4226-b698-707d15168e33</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
